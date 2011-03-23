@@ -1,0 +1,498 @@
+<mockup version="1.0" skin="sketch" measuredW="1283" measuredH="987" mockupW="1264" mockupH="977">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="9" y="0" w="1264" h="977" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>A%20sua%20rede%20social%20de%20Eventos%0Ahttp%3A//www.juntae.com.br/elquissonlima</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="21" y="72" w="1233" h="109" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13421772</borderColor>
+        <color>15790322</color>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="121" y="154" w="1035" h="161" measuredW="100" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <borderColor>15790322</borderColor>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="245" y="206" w="297" h="-1" measuredW="262" measuredH="56" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+        <size>40</size>
+        <text>Elquisson%20Lima</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::SearchBox" x="522" y="113" w="154" h="-1" measuredW="152" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buscar%20em%20Toda%20Rede</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::LinkBar" x="254" y="168" w="-1" h="-1" measuredW="302" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eventos%285%29%2C%20Amigos%2830%29%2C%20Grupos%281%29%2C%20Fotos%285%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Button" x="141" y="262" w="76" h="32" measuredW="76" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+%20Amigos</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="834" y="343" w="245" h="-1" measuredW="98" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>CloudIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <size>18</size>
+        <text>Eu%20Vou</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Image" x="840" y="416" w="71" h="100" measuredW="304" measuredH="400" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/festival.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::IconLabel" x="834" y="384" w="203" h="-1" measuredW="203" measuredH="23" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>MusicIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Festival%20de%20Ver%E3o%20de%20Salvador</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="925" y="411" w="185" h="115" measuredW="900" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>o%20Festival%20de%20Ver%E3o%20Salvador%202011%20%E9%20um%20mega%20evento%20nos%2021/02/2011%20a%2024/02/2001.%20S%E3o%20mais%20de%2050%20atra%E7oes%20em%207%20paucos%20distribuidos%20pelo%20Parque%20de%20Esposi%E7%E3o%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::HRule" x="834" y="580" w="276" h="-1" measuredW="100" measuredH="5" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8554646</color>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::HRule" x="123" y="414" w="662" h="-1" measuredW="100" measuredH="5" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>4144959</color>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::HRule" x="121" y="512" w="662" h="-1" measuredW="100" measuredH="5" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8554646</color>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::SubTitle" x="286" y="358" w="-1" h="-1" measuredW="95" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <text>Vai%20participar%20do</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Link" x="388" y="356" w="-1" h="-1" measuredW="184" measuredH="23" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Festival%20de%20Ver%E3o%20de%20Salvador</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Link" x="188" y="357" w="-1" h="-1" measuredW="90" measuredH="23" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Elquisson%20Lima</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="383" w="66" h="-1" measuredW="81" measuredH="23" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <icon>BaloonIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Comentar</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Image" x="134" y="174" w="90" h="120" measuredW="180" measuredH="240" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Image" x="136" y="335" w="45" h="60" measuredW="180" measuredH="240" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::SubTitle" x="190" y="335" w="-1" h="-1" measuredW="125" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <text>15/03/2011%20h%E1%202%20dias.</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Canvas" x="121" y="335" w="1037" h="418" measuredW="100" measuredH="70" zOrder="7" locked="true" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::SubTitle" x="286" y="452" w="-1" h="-1" measuredW="95" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <text>Vai%20participar%20do</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Link" x="388" y="451" w="-1" h="-1" measuredW="184" measuredH="23" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Festival%20de%20Ver%E3o%20de%20Salvador</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Link" x="188" y="451" w="-1" h="-1" measuredW="90" measuredH="23" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Elquisson%20Lima</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="477" w="66" h="-1" measuredW="81" measuredH="23" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <icon>BaloonIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Comentar</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Image" x="136" y="429" w="45" h="60" measuredW="180" measuredH="240" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::SubTitle" x="190" y="429" w="-1" h="-1" measuredW="125" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <text>15/03/2011%20h%E1%202%20dias.</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::SubTitle" x="286" y="555" w="-1" h="-1" measuredW="95" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <text>Vai%20participar%20do</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Link" x="388" y="554" w="-1" h="-1" measuredW="184" measuredH="23" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Festival%20de%20Ver%E3o%20de%20Salvador</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Link" x="188" y="554" w="-1" h="-1" measuredW="90" measuredH="23" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Elquisson%20Lima</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="580" w="66" h="-1" measuredW="81" measuredH="23" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <icon>BaloonIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Comentar</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Image" x="136" y="532" w="45" h="60" measuredW="180" measuredH="240" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::SubTitle" x="190" y="532" w="-1" h="-1" measuredW="125" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <text>15/03/2011%20h%E1%202%20dias.</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::HRule" x="121" y="618" w="662" h="-1" measuredW="100" measuredH="5" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8554646</color>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::SubTitle" x="286" y="661" w="-1" h="-1" measuredW="95" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <text>Vai%20participar%20do</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::Link" x="388" y="660" w="-1" h="-1" measuredW="184" measuredH="23" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Festival%20de%20Ver%E3o%20de%20Salvador</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Link" x="188" y="660" w="-1" h="-1" measuredW="90" measuredH="23" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Elquisson%20Lima</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="686" w="66" h="-1" measuredW="81" measuredH="23" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <icon>BaloonIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Comentar</text>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::Image" x="136" y="638" w="45" h="60" measuredW="180" measuredH="240" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::SubTitle" x="190" y="638" w="-1" h="-1" measuredW="125" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <text>15/03/2011%20h%E1%202%20dias.</text>
+      </controlProperties>
+    </control>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Link" x="751" y="723" w="-1" h="-1" measuredW="32" measuredH="23" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mais</text>
+      </controlProperties>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::IconLabel" x="805" y="174" w="63" h="-1" measuredW="63" measuredH="24" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HomeMobileIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::IconLabel" x="840" y="114" w="188" h="-1" measuredW="188" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>UserIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Elquisson%20Lima%2C%20Bem%20Vindo%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::IconLabel" x="1011" y="174" w="99" h="-1" measuredW="99" measuredH="24" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmailIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Recados%20%283%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::IconLabel" x="1048" y="114" w="56" h="-1" measuredW="56" measuredH="24" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <icon>PowerIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Sair</text>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::IconLabel" x="889" y="174" w="107" h="-1" measuredW="107" measuredH="24" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>WriteIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Editar%20Perfil</text>
+      </controlProperties>
+    </control>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::LinkBar" x="653" y="78" w="-1" h="-1" measuredW="457" measuredH="20" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Eventos%284524%29%2C%20Pessoas%2812787%29%2C%20Grupos%285890%29%2CProdutoras%28786%29%2C%20Servi%E7os%28765%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::HRule" x="121" y="717" w="662" h="-1" measuredW="100" measuredH="5" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8554646</color>
+      </controlProperties>
+    </control>
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::Image" x="834" y="592" w="22" h="30" measuredW="180" measuredH="240" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::Image" x="862" y="592" w="22" h="30" measuredW="180" measuredH="240" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="195" controlTypeID="com.balsamiq.mockups::Image" x="888" y="592" w="22" h="30" measuredW="180" measuredH="240" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="196" controlTypeID="com.balsamiq.mockups::Image" x="916" y="592" w="22" h="30" measuredW="180" measuredH="240" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::Image" x="942" y="592" w="22" h="30" measuredW="180" measuredH="240" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::Image" x="970" y="592" w="22" h="30" measuredW="180" measuredH="240" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::Image" x="996" y="592" w="22" h="30" measuredW="180" measuredH="240" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="200" controlTypeID="com.balsamiq.mockups::Image" x="1024" y="592" w="22" h="30" measuredW="180" measuredH="240" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::Image" x="1050" y="592" w="22" h="30" measuredW="180" measuredH="240" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/elquisson.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="203" controlTypeID="com.balsamiq.mockups::Link" x="1072" y="553" w="-1" h="-1" measuredW="32" measuredH="23" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mais</text>
+      </controlProperties>
+    </control>
+    <control controlID="204" controlTypeID="com.balsamiq.mockups::Link" x="1065" y="347" w="-1" h="-1" measuredW="32" measuredH="23" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mais</text>
+      </controlProperties>
+    </control>
+    <control controlID="206" controlTypeID="com.balsamiq.mockups::IconLabel" x="834" y="549" w="245" h="-1" measuredW="98" measuredH="32" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>ContactsIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <size>18</size>
+        <text>Amigos</text>
+      </controlProperties>
+    </control>
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::HRule" x="834" y="373" w="276" h="-1" measuredW="100" measuredH="5" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8554646</color>
+      </controlProperties>
+    </control>
+    <control controlID="209" controlTypeID="com.balsamiq.mockups::Canvas" x="19" y="789" w="1235" h="161" measuredW="100" measuredH="70" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13421772</borderColor>
+        <color>15790322</color>
+      </controlProperties>
+    </control>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::Label" x="129" y="804" w="-1" h="-1" measuredW="54" measuredH="24" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Junatae</text>
+      </controlProperties>
+    </control>
+    <control controlID="212" controlTypeID="com.balsamiq.mockups::Link" x="129" y="828" w="-1" h="-1" measuredW="78" measuredH="23" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Quem%20somos</text>
+      </controlProperties>
+    </control>
+    <control controlID="213" controlTypeID="com.balsamiq.mockups::Link" x="129" y="859" w="-1" h="-1" measuredW="51" measuredH="23" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contato</text>
+      </controlProperties>
+    </control>
+    <control controlID="214" controlTypeID="com.balsamiq.mockups::Label" x="254" y="804" w="-1" h="-1" measuredW="40" measuredH="24" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Ajuda</text>
+      </controlProperties>
+    </control>
+    <control controlID="215" controlTypeID="com.balsamiq.mockups::Link" x="254" y="828" w="-1" h="-1" measuredW="138" measuredH="23" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perguntas%20Frequentes</text>
+      </controlProperties>
+    </control>
+    <control controlID="216" controlTypeID="com.balsamiq.mockups::Link" x="254" y="859" w="-1" h="-1" measuredW="74" measuredH="23" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tour%20Rapido</text>
+      </controlProperties>
+    </control>
+    <control controlID="217" controlTypeID="com.balsamiq.mockups::Label" x="442" y="800" w="-1" h="-1" measuredW="53" measuredH="24" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Politica</text>
+      </controlProperties>
+    </control>
+    <control controlID="218" controlTypeID="com.balsamiq.mockups::Link" x="442" y="824" w="-1" h="-1" measuredW="139" measuredH="23" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pol%EDtica%20de%20privacidade</text>
+      </controlProperties>
+    </control>
+    <control controlID="219" controlTypeID="com.balsamiq.mockups::Link" x="442" y="855" w="-1" h="-1" measuredW="90" measuredH="23" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Termos%20de%20uso</text>
+      </controlProperties>
+    </control>
+    <control controlID="220" controlTypeID="com.balsamiq.mockups::Label" x="630" y="804" w="-1" h="-1" measuredW="59" measuredH="24" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Colabore</text>
+      </controlProperties>
+    </control>
+    <control controlID="221" controlTypeID="com.balsamiq.mockups::Link" x="630" y="828" w="-1" h="-1" measuredW="99" measuredH="23" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>F%F3rum%20de%20ideias</text>
+      </controlProperties>
+    </control>
+    <control controlID="222" controlTypeID="com.balsamiq.mockups::Link" x="630" y="859" w="-1" h="-1" measuredW="88" measuredH="23" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Relatar%20abuso</text>
+      </controlProperties>
+    </control>
+    <control controlID="223" controlTypeID="com.balsamiq.mockups::Label" x="834" y="804" w="-1" h="-1" measuredW="274" measuredH="23" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%A9%202011%20Junate.%20Todos%20os%20Diretos%20Reservados.</text>
+      </controlProperties>
+    </control>
+    <control controlID="224" controlTypeID="com.balsamiq.mockups::TextArea" x="634" y="218" w="405" h="59" measuredW="200" measuredH="140" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Deixe%20um%20Recado%20para%20Elquisson%20Lima</text>
+      </controlProperties>
+    </control>
+    <control controlID="225" controlTypeID="com.balsamiq.mockups::Button" x="1048" y="218" w="66" h="59" measuredW="62" measuredH="28" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Entrar</text>
+      </controlProperties>
+    </control>
+    <control controlID="226" controlTypeID="__group__" x="272" y="266" w="-1" h="-1" measuredW="245" measuredH="24" zOrder="78" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="107" controlTypeID="com.balsamiq.mockups::IconLabel" x="98" y="0" w="66" h="-1" measuredW="75" measuredH="24" zOrder="0" locked="false" isInGroup="226">
+          <controlProperties>
+            <icon>ContactsIcon%7Csmall</icon>
+            <labelPosition>right</labelPosition>
+            <text>Amigos</text>
+          </controlProperties>
+        </control>
+        <control controlID="118" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="76" h="-1" measuredW="94" measuredH="24" zOrder="1" locked="false" isInGroup="226">
+          <controlProperties>
+            <icon>LightBulbIcon%7Csmall</icon>
+            <labelPosition>right</labelPosition>
+            <text>Atividades</text>
+            <underline>true</underline>
+          </controlProperties>
+        </control>
+        <control controlID="120" controlTypeID="com.balsamiq.mockups::IconLabel" x="179" y="0" w="66" h="-1" measuredW="67" measuredH="24" zOrder="2" locked="false" isInGroup="226">
+          <controlProperties>
+            <icon>ContactIcon%7Csmall</icon>
+            <labelPosition>right</labelPosition>
+            <text>Perfil</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
